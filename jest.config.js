@@ -1,6 +1,7 @@
 module.exports = {
   testEnvironment: 'node',
   collectCoverage: true,
+  coverageDirectory: './coverage/',
   collectCoverageFrom: [
     'lib/**/*.js',
     '!lib/plugin.js'
