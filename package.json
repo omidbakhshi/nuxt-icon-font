@@ -20,8 +20,9 @@
     "test": "yarn lint && jest && codecov -t c9f8b00e-81e1-4eda-a883-a27746959537"
   },
   "dependencies": {
+    "consola": "^2.14.0",
     "core-js": "2.6.5",
-    "icon-font-generator": "^2.1.10"
+    "svgtofont": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "latest",
@@ -32,12 +33,12 @@
     "@nuxtjs/module-test-utils": "latest",
     "babel-eslint": "latest",
     "babel-jest": "latest",
+    "codecov": "^3.7.2",
     "eslint": "latest",
     "husky": "latest",
     "jest": "latest",
     "nuxt-edge": "latest",
-    "standard-version": "latest",
-    "codecov": "^3.7.2"
+    "standard-version": "latest"
   },
   "publishConfig": {
     "access": "public"
