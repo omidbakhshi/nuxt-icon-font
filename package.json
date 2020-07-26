@@ -47,13 +47,16 @@
     "access": "public"
   },
   "directories": {
-    "example": "example",
     "lib": "lib",
     "test": "test"
   },
   "keywords": [
+    "nuxtFontIcon",
     "nuxt",
-    "nuxtFontIcon"
+    "nuxtjs",
+    "nuxt-module",
+    "iconfont",
+    "webfont"
   ],
   "author": "Omid Bakhshi"
 }
