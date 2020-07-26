@@ -1,13 +1,16 @@
 {
-  "name": "nuxt-icon-font",
+  "name": "@omidba/nuxt-icon-font",
   "version": "0.0.3",
   "description": "auto generate icon-font from svg",
-  "repository": "omidbakhshi",
+  "homepage": "https://github.com/omidbakhshi/nuxt-icon-font",
+  "repository": "https://github.com/omidbakhshi/nuxt-icon-font",
+  "bugs": {
+    "url": "https://github.com/omidbakhshi/nuxt-icon-font/issues",
+    "email": "o.bakhshi@gmail.com"
+  },
   "license": "MIT",
   "contributors": [
-    {
-      "name": "omid <omid.b.69@gmail.com>"
-    }
+    "omid <omid.b.69@gmail.com>"
   ],
   "files": [
     "lib"
@@ -42,5 +45,15 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxtFontIcon"
+  ],
+  "author": "Omid Bakhshi"
 }
