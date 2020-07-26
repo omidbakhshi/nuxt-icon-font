@@ -1,6 +1,6 @@
 {
   "name": "nuxt-icon-font",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "auto generate icon-font from svg",
   "repository": "omidbakhshi",
   "license": "MIT",
