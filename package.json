@@ -1,6 +1,6 @@
 {
   "name": "nuxt-icon-font",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auto generate icon-font from svg",
   "repository": "omidbakhshi",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "scripts": {
     "dev": "nuxt example",
     "lint": "eslint --ext .js,.vue .",
-    "release": "yarn test && standard-version && git push --follow-tags && npm publish",
+    "release": "standard-version && git push --follow-tags && npm publish",
     "test": "yarn lint && jest && codecov -t c9f8b00e-81e1-4eda-a883-a27746959537"
   },
   "dependencies": {
