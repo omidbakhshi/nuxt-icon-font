@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/omidbakhshi/nuxt-icon-font/compare/v0.0.7...v0.0.8) (2020-09-11)
+
+
+### Bug Fixes
+
+* **core:** update svgtofont package ([4da6304](https://github.com/omidbakhshi/nuxt-icon-font/commit/4da63040ab1863a3b0cc78d0e5bb60863ff34d19))
+
 ### [0.0.7](https://github.com/omidbakhshi/nuxt-icon-font/compare/v0.0.6...v0.0.7) (2020-07-26)
 
 ### [0.0.6](https://github.com/omidbakhshi/nuxt-icon-font/compare/v0.0.5...v0.0.6) (2020-07-26)
